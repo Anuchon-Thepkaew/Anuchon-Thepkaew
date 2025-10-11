@@ -1,4 +1,4 @@
-<h1>สวัสดีครับHello Im Thai</h1>
+<h1>Hello Im Thai</h1>
 <h2>My name is Lakes</h2>
 
 <a href="https://www.github.com/Anuchon 240" target="_blank" rel="noreferrer"><img
