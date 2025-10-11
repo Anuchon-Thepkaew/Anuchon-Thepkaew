@@ -1,5 +1,5 @@
 
-Hello, I'm Thai.
+Hello Im Thai
 
 =====================
 
