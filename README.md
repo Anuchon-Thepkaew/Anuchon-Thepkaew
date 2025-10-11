@@ -1,7 +1,4 @@
-<div>
-<h1>Hello Im Thai</h1>
-<h2>My name is Lakes</h2>
-</div>
+<h1>Hello Im Thai</h1><h2>My name is Lakes</h2>
 <a href="https://www.github.com/Anuchon 240" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Anuchon 240?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>
 
