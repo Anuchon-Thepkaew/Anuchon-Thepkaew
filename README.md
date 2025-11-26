@@ -18,4 +18,4 @@ src="https://img.shields.io/github/followers/Anuchon 240?logo=github&style=for-t
 
 ### Badges
 
-<a href="https://github.com/Anuchon-Thepkaew" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuchon-Thepkaew&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirapongSrijanyoo&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
